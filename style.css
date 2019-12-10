@@ -1,0 +1,32 @@
+h1 {
+  color: DarkBlue;
+}
+h2 {
+  color: DarkRed;
+}
+h3 {
+  color: DarkGreen;
+}
+ol {
+  list-style-type: lower-alpha;
+}
+ul {
+  list-style-type: square;
+}
+img {
+  border-style: dashed;
+  border-width: 4px;
+  border-color: Pink;
+}
+h1,h2,h3{
+  font-family: Helvetica, Arial, sans-serif;
+}
+.myBitOfCrazyStyling {
+  color: HotPink
+}
+div {
+  border: 1px solid grey;
+  background-color: LightGrey;
+  padding: 10px;
+  margin: 20px;
+}
